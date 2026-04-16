@@ -1,0 +1,24 @@
+{
+  "name": "idon",
+  "version": "1.0.0",
+  "description": "Open-source dynamic avatar service with an easy-to-use API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solarcosmic/idon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solarcosmic/idon/issues"
+  },
+  "homepage": "https://github.com/solarcosmic/idon#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "kleur": "^4.1.5"
+  }
+}
